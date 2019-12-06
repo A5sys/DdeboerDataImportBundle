@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "ddeboer/data-import": "0.18.1.x-dev"
+        "ddeboer/data-import": "0.18.1"
     },
     "autoload": {
         "psr-0": { "Ddeboer\\DataImportBundle": "" }
@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url":  "git@github.com:enimatek/data-import.git"
+            "url":  "git@github.com:A5sys/data-import.git"
         }
     ]
 }
